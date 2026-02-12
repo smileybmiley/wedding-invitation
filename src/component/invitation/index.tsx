@@ -59,9 +59,9 @@ export const Invitation = () => {
             closeOnClickBackground: true,
             header: (
               <div className="title-group">
-                <div className="title">축하의 마음 전하기</div>
+                <div className="title">축복의 한마디 전하기</div>
                 <div className="subtitle">
-                  저희의 새로운 시작을 따뜻한 한마디로 축복해 주세요.
+                  새로운 시작을 따뜻한 한마디로 축복해 주세요.
                 </div>
               </div>
             ),
